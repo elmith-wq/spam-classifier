@@ -1,0 +1,5 @@
+﻿# PyTorch (GPU build): uv pip install torch --index-url https://download.pytorch.org/whl/cu126
+transformers
+scikit-learn
+pandas
+gradio
