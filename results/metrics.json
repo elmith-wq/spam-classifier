@@ -1,0 +1,16 @@
+{
+  "TF-IDF + LogReg": {
+    "auc": 0.9888,
+    "log_loss": 0.1651,
+    "spam_precision": 0.9023,
+    "spam_recall": 0.916,
+    "errors": 24
+  },
+  "DistilBERT": {
+    "auc": 0.9933,
+    "log_loss": 0.0605,
+    "spam_precision": 1.0,
+    "spam_recall": 0.8931,
+    "errors": 14
+  }
+}
